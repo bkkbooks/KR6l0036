@@ -1,0 +1,446 @@
+canonical_identifier: bkk:krp/KR6l0036/T/v1
+canonical_location: https://kanripo.org/bkk/KR6l0036/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 俱舍論頌疏
+  identifiers:
+    krp: KR6l0036
+    cbeta: T41n1823
+    cbeta_old_id: T41n1823
+    authorityid: CA0001893
+    json_key: T1823
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T41/T41n1823.xml
+    old_id: T41n1823
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6l0036_000-T.yaml, hash: 'sha256:0e6e71176ac5ff05b78e35eb456ab58c2808ae51d92b08c2f6686694ff07ae36'}
+  - {seq: 1, filename: KR6l0036_001-T.yaml, hash: 'sha256:3fcbbbd00857d1bc54fd718cc3f8b1eddc3f8c197e630cf03964cfe7cd36923c'}
+  - {seq: 2, filename: KR6l0036_002-T.yaml, hash: 'sha256:04b17994ea1896cb20d2267aba50bbb59b3531c9d1e3d2e3869aebcd60c81bab'}
+  - {seq: 3, filename: KR6l0036_003-T.yaml, hash: 'sha256:a015cc64c3384ae19b6d587d9136dd2585dbdce161b287c88916bec09a677adb'}
+  - {seq: 4, filename: KR6l0036_004-T.yaml, hash: 'sha256:3ca73c392fc9d066db429643c5e449ec0c75892727c2f2824e2182a0c98689b4'}
+  - {seq: 5, filename: KR6l0036_005-T.yaml, hash: 'sha256:0f4617f201791ae8ee94da54d8eb2bce181543fdce6b06f4cd2bfd7929360cf7'}
+  - {seq: 6, filename: KR6l0036_006-T.yaml, hash: 'sha256:dfbe697356f6662fdbbff3cdc7454f64ea4dc76b674f2d207149938f2f713a9f'}
+  - {seq: 7, filename: KR6l0036_007-T.yaml, hash: 'sha256:df04c237261fe3e18c5b7b27b7b82b56556f39a4bd050b54b61fff077553085c'}
+  - {seq: 8, filename: KR6l0036_008-T.yaml, hash: 'sha256:559e01bfa0d524a6e0f9c7f85a7397a28e404796035285a7bb028bb62f8ed91a'}
+  - {seq: 9, filename: KR6l0036_009-T.yaml, hash: 'sha256:59c63e84c7fd04ac8e1aeba4c4a70108ac5e8b878c7abea3565b9a3b7d616e6a'}
+  - {seq: 10, filename: KR6l0036_010-T.yaml, hash: 'sha256:64483e0be3bca82e4478c9c025905e9a51616440a629bdb58ca642a9c7963f74'}
+  - {seq: 11, filename: KR6l0036_011-T.yaml, hash: 'sha256:2ecc616e261b197f9d32b0ff1c7c92a6d076eb40d6532082b25358ccef127264'}
+  - {seq: 12, filename: KR6l0036_012-T.yaml, hash: 'sha256:a437cd13f7b9565967cb2f5e9efc30280770291b9da4a11590423276a05c8a48'}
+  - {seq: 13, filename: KR6l0036_013-T.yaml, hash: 'sha256:f1ee349b7846e6ad97014c8d9fdea46ea3f09fb84c69fb049bea90cedafa0661'}
+  - {seq: 14, filename: KR6l0036_014-T.yaml, hash: 'sha256:6fed766a422079ed1c4bf6ae7fa804efa4227848fd73fddc54c5e66e099e7361'}
+  - {seq: 15, filename: KR6l0036_015-T.yaml, hash: 'sha256:4c98957f20b27f365eea76e905253231ba07df5697ec163b315406657224e97e'}
+  - {seq: 16, filename: KR6l0036_016-T.yaml, hash: 'sha256:2a28040016f5396cd78e87ec393c436072f6a45b63aedc3cb9a9d7ea02905b9c'}
+  - {seq: 17, filename: KR6l0036_017-T.yaml, hash: 'sha256:be4e878fe4765dd945c0474d6bef2a376a0947ea034c83a2ef58fc2a1be370e1'}
+  - {seq: 18, filename: KR6l0036_018-T.yaml, hash: 'sha256:197a0d786051ad62cae73bb5bbc45dea8b54caf25630e9cd5af874217b4511bc'}
+  - {seq: 19, filename: KR6l0036_019-T.yaml, hash: 'sha256:06efee13d3f4b98925833f5ed6076c674a1763763877efc2f8b4b353939554b2'}
+  - {seq: 20, filename: KR6l0036_020-T.yaml, hash: 'sha256:bf2e934321ea092ac953e7c52696d8ba83c610600d0482b7cffd6734ec455a74'}
+  - {seq: 21, filename: KR6l0036_021-T.yaml, hash: 'sha256:3083c316355c4baa9674b40434ef5eb459128d9e25bd0e0da4ff26fbdc45c444'}
+  - {seq: 22, filename: KR6l0036_022-T.yaml, hash: 'sha256:75b48a22ea705ff4b862ad25b65f4bac382876ade9da41eff5e3c5ac1cf6491c'}
+  - {seq: 23, filename: KR6l0036_023-T.yaml, hash: 'sha256:91a1d45f608a7cc4539a2514d04d8febb7ec0a2de24e316f99813d72ad3f54a5'}
+  - {seq: 24, filename: KR6l0036_024-T.yaml, hash: 'sha256:7b740d5a731f7c71a73046091305040662c653eda231e0f6af470d65289628ca'}
+  - {seq: 25, filename: KR6l0036_025-T.yaml, hash: 'sha256:975686a63f97bcad669dc0616c13bf65b46532d9ea6636cbfad654f18e3d31e2'}
+  - {seq: 26, filename: KR6l0036_026-T.yaml, hash: 'sha256:c918233f6ffb66813036613b55333fe6f826b447e90bb0590b1f564051b4d771'}
+  - {seq: 27, filename: KR6l0036_027-T.yaml, hash: 'sha256:220a34695b07950748b7eda41f0a8575a5713aa68bbc796b53adee72bcf4154f'}
+  - {seq: 28, filename: KR6l0036_028-T.yaml, hash: 'sha256:c2872fb743d674ef458f82fdb53c05c95d19a3d9dbfefc980f1e35488fab8faf'}
+  - {seq: 29, filename: KR6l0036_029-T.yaml, hash: 'sha256:0d92d99cee3fde44eb8ab9602078264c20a3b590b8a3d2a41930bd7f9db29648'}
+  - {seq: 30, filename: KR6l0036_030-T.yaml, hash: 'sha256:9bdaa925abd3455394cd8138bbb54ef1d53ddefbd88a732c397a57ec2714b1d8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6l0036_000-T.markers.yaml, hash: 'sha256:f243c4355a1407d3065cb871df72734e8a9ef4b3b7123e34c35cc25ebda702a0'}
+  - {seq: 1, role: markers, filename: assets/KR6l0036_001-T.markers.yaml, hash: 'sha256:63b3ff1d57ed5a270373779f646c210beb5ead978f2f002024818a5329cf1047'}
+  - {seq: 2, role: markers, filename: assets/KR6l0036_002-T.markers.yaml, hash: 'sha256:33d2c125223d064c80d9800ff3a0c63c57d00a7ae7766a338a7e37a5ced6d334'}
+  - {seq: 3, role: markers, filename: assets/KR6l0036_003-T.markers.yaml, hash: 'sha256:ca88ad410efc170ba9644af5095e7f2b714ac34de4d3430c3e8783af10dc983d'}
+  - {seq: 4, role: markers, filename: assets/KR6l0036_004-T.markers.yaml, hash: 'sha256:2e5aa86ff5ea428da07ecc7b11110d273393b73c50b556542a8d0c50c8a20f27'}
+  - {seq: 5, role: markers, filename: assets/KR6l0036_005-T.markers.yaml, hash: 'sha256:8e61ddd2cfcccbc7d5ce64306cafbfaea204cf205d05b1c6441c96c9b4d2bcba'}
+  - {seq: 6, role: markers, filename: assets/KR6l0036_006-T.markers.yaml, hash: 'sha256:d1dd25b1d10f46a0a53e897545f868d216fb4ca821f36c3af707d94153afb35d'}
+  - {seq: 7, role: markers, filename: assets/KR6l0036_007-T.markers.yaml, hash: 'sha256:158c734a20ba3919c8a1d5d535a306c47c325c8b7a08ec1cb7bd09a70c90d029'}
+  - {seq: 8, role: markers, filename: assets/KR6l0036_008-T.markers.yaml, hash: 'sha256:6a7aca122c11f4e407507bdb2fb52b38bc27ad5852a318e4e6ed00482fb4c6cc'}
+  - {seq: 9, role: markers, filename: assets/KR6l0036_009-T.markers.yaml, hash: 'sha256:6f28548350f78123a0cb606ddbdca7d08d11ffa38a4903713f21aab805dd44ac'}
+  - {seq: 10, role: markers, filename: assets/KR6l0036_010-T.markers.yaml, hash: 'sha256:9cfd0789ed2050c65b75925180a888f48b80e847b7c2298b842c82f2a79893a2'}
+  - {seq: 11, role: markers, filename: assets/KR6l0036_011-T.markers.yaml, hash: 'sha256:d4fdcb94b7b5a0c19bee682202bc38f476d6379116a446c85d15883dcc825d73'}
+  - {seq: 12, role: markers, filename: assets/KR6l0036_012-T.markers.yaml, hash: 'sha256:d7847d719f1f6f092b6dba90d8249caa00e692786cec32b16e8cc1b222b8510a'}
+  - {seq: 13, role: markers, filename: assets/KR6l0036_013-T.markers.yaml, hash: 'sha256:ba567bfb93a69f2753b80b61af0ff962c878873d22e2f70c13a820b2eaa92dac'}
+  - {seq: 14, role: markers, filename: assets/KR6l0036_014-T.markers.yaml, hash: 'sha256:7a97da2dfb143e1cd80e3b70a15865bab1745e60e78f2f435fb6002cbd030ae5'}
+  - {seq: 15, role: markers, filename: assets/KR6l0036_015-T.markers.yaml, hash: 'sha256:51a9754424e01e5bdf19e819016be88b0a8e2d0b2b4e007918cb3e98295b2a8d'}
+  - {seq: 16, role: markers, filename: assets/KR6l0036_016-T.markers.yaml, hash: 'sha256:8d636ef41d304d7de0a0dba646db05b4188d890342e1e6e67705310635cd5703'}
+  - {seq: 17, role: markers, filename: assets/KR6l0036_017-T.markers.yaml, hash: 'sha256:27194f97e6dd0d1fae9594642b8e684c6aa1f68e5c54d10f9a8f04be54211c82'}
+  - {seq: 18, role: markers, filename: assets/KR6l0036_018-T.markers.yaml, hash: 'sha256:ef81fa82a2e66fb7e6c7606d5bb7c73773b77b9346ff9816d3d9de8f85e79c10'}
+  - {seq: 19, role: markers, filename: assets/KR6l0036_019-T.markers.yaml, hash: 'sha256:9a21a73db90e2435683055759ebae174eb0c9f418760e1151d4f90c2a11d7e57'}
+  - {seq: 20, role: markers, filename: assets/KR6l0036_020-T.markers.yaml, hash: 'sha256:d8b15fc03a2ec86df3b171a53a807a361f984f180e6f7fd760c7aa702e2f8676'}
+  - {seq: 21, role: markers, filename: assets/KR6l0036_021-T.markers.yaml, hash: 'sha256:19196d91c9004977575505a08d805ec0e4864227b0e347d530340fb06e837ebb'}
+  - {seq: 22, role: markers, filename: assets/KR6l0036_022-T.markers.yaml, hash: 'sha256:5aec95aade537a103bda6ca80b395fe2680ed183a40ebab0d9f70fe5611c77ed'}
+  - {seq: 23, role: markers, filename: assets/KR6l0036_023-T.markers.yaml, hash: 'sha256:94463315bd6762be4add69ed011b282b1032bef66225eca63a99cc3ed96dffd4'}
+  - {seq: 24, role: markers, filename: assets/KR6l0036_024-T.markers.yaml, hash: 'sha256:f04bdf71dc9752d1a465246080399888d9820634bdecddd13e9f28d8b08adcca'}
+  - {seq: 25, role: markers, filename: assets/KR6l0036_025-T.markers.yaml, hash: 'sha256:2b8e3cc98f695d3cbf43c9fefecb919d9765fe971e95a893e4f1988a0deabf05'}
+  - {seq: 26, role: markers, filename: assets/KR6l0036_026-T.markers.yaml, hash: 'sha256:18594c956147c0c0233819e49711a348c3c6b7f20c02d1651d64933c3bf12be3'}
+  - {seq: 27, role: markers, filename: assets/KR6l0036_027-T.markers.yaml, hash: 'sha256:65931cf555e7733b8583544a2afec534dade0b9a2b98b233056a5d0d15d896df'}
+  - {seq: 28, role: markers, filename: assets/KR6l0036_028-T.markers.yaml, hash: 'sha256:4f4b0f051b1b4e360f9bc823952752247ec6331cdedb39518cb6a3f8f9deb5f6'}
+  - {seq: 29, role: markers, filename: assets/KR6l0036_029-T.markers.yaml, hash: 'sha256:3eaab35c7e27104e935ccdeca8ba303b1568aa30d7d19a21cf33e46061d651b2'}
+  - {seq: 30, role: markers, filename: assets/KR6l0036_030-T.markers.yaml, hash: 'sha256:032579bf6ae0caf26e97be656294629ac917e941fc6532884d1d38efd4267457'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6l0036_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 阿毘達磨俱舍論略釋記
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6l0036_T_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0036_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 18061
+  label: 俱舍論頌疏論本第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0036_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9856
+  label: 俱舍論頌疏論本第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0036_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8092
+  label: 俱舍論頌疏論本第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0036_T_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 分別根品二之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0036_T_003-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0036_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 11030
+  label: 俱舍論頌疏論本第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0036_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6763
+  label: 俱舍論頌疏論本第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0036_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 7290
+  label: 俱舍論頌疏論本第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0036_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6124
+  label: 俱舍論頌疏論本第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0036_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7440
+  label: 俱舍論頌疏論本第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0036_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 6736
+  label: 俱舍論頌疏論本第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0036_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 6869
+  label: 俱舍論頌疏論本第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0036_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 8114
+  label: 俱舍論頌疏論本第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6l0036_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 5527
+  label: 俱舍論頌疏論本第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6l0036_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 6940
+  label: 俱舍論頌疏論本第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6l0036_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 7241
+  label: 俱舍論頌疏論本第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0036_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 7919
+  label: 俱舍論頌疏論本第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6l0036_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 6249
+  label: 俱舍論頌疏論本第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0036_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 7303
+  label: 俱舍論頌疏論本第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0036_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 8103
+  label: 俱舍論頌疏論本第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6l0036_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 7418
+  label: 俱舍論頌疏論本第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6l0036_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 5943
+  label: 俱舍論頌疏論本第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6l0036_T_021-juan-start
+    span:
+    - body
+    - 0
+    - 7759
+  label: 俱舍論頌疏論本第二十一
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6l0036_T_022-juan-start
+    span:
+    - body
+    - 0
+    - 4743
+  label: 俱舍論頌疏論本第二十二
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6l0036_T_023-juan-start
+    span:
+    - body
+    - 0
+    - 7552
+  label: 俱舍論頌疏論本第二十三
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6l0036_T_024-juan-start
+    span:
+    - body
+    - 0
+    - 6603
+  label: 俱舍論頌疏論本第二十四
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6l0036_T_025-juan-start
+    span:
+    - body
+    - 0
+    - 6261
+  label: 俱舍論頌疏論本第二十五
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6l0036_T_026-juan-start
+    span:
+    - body
+    - 0
+    - 7170
+  label: 俱舍論頌疏論本第二十六
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6l0036_T_027-juan-start
+    span:
+    - body
+    - 0
+    - 6851
+  label: 俱舍論頌疏論本第二十七
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6l0036_T_028-juan-start
+    span:
+    - body
+    - 0
+    - 6298
+  label: 俱舍論頌疏論本第二十八
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6l0036_T_029-juan-start
+    span:
+    - body
+    - 0
+    - 5376
+  label: 俱舍論頌疏論本第二十九
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6l0036_T_029-mulu-1
+    span:
+    - body
+    - 3592
+    - 3592
+  label: 破我品
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6l0036_T_029-mulu-2
+    span:
+    - body
+    - 3592
+    - 3592
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6l0036_T_030-juan-start
+    span:
+    - body
+    - 0
+    - 3110
+  label: 俱舍論頌疏論本卷第三十
+  type: juan
+  level: 1
+hash: sha256:8da8bbbc8def5b396bd46b2299aafd4ca725b8948f5bf4ac63847299089c4906
