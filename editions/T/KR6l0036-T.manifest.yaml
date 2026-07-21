@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6l0036_000-T.yaml, hash: 'sha256:0e6e71176ac5ff05b78e35eb456ab58c2808ae51d92b08c2f6686694ff07ae36'}
+  - {seq: 0, filename: KR6l0036_000-T.yaml, hash: 'sha256:083e21c159845fec46f19bb1a9a849c23f25383e26be8689ca0588a748817e5a'}
   - {seq: 1, filename: KR6l0036_001-T.yaml, hash: 'sha256:3fcbbbd00857d1bc54fd718cc3f8b1eddc3f8c197e630cf03964cfe7cd36923c'}
   - {seq: 2, filename: KR6l0036_002-T.yaml, hash: 'sha256:04b17994ea1896cb20d2267aba50bbb59b3531c9d1e3d2e3869aebcd60c81bab'}
   - {seq: 3, filename: KR6l0036_003-T.yaml, hash: 'sha256:a015cc64c3384ae19b6d587d9136dd2585dbdce161b287c88916bec09a677adb'}
@@ -51,7 +51,7 @@ assets:
   - {seq: 29, filename: KR6l0036_029-T.yaml, hash: 'sha256:0d92d99cee3fde44eb8ab9602078264c20a3b590b8a3d2a41930bd7f9db29648'}
   - {seq: 30, filename: KR6l0036_030-T.yaml, hash: 'sha256:9bdaa925abd3455394cd8138bbb54ef1d53ddefbd88a732c397a57ec2714b1d8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6l0036_000-T.markers.yaml, hash: 'sha256:f243c4355a1407d3065cb871df72734e8a9ef4b3b7123e34c35cc25ebda702a0'}
+  - {seq: 0, role: markers, filename: assets/KR6l0036_000-T.markers.yaml, hash: 'sha256:eabbcdd824ec13950b627ad0b4004cf182fca2d25f2c0bc71115017d7576316f'}
   - {seq: 1, role: markers, filename: assets/KR6l0036_001-T.markers.yaml, hash: 'sha256:63b3ff1d57ed5a270373779f646c210beb5ead978f2f002024818a5329cf1047'}
   - {seq: 2, role: markers, filename: assets/KR6l0036_002-T.markers.yaml, hash: 'sha256:33d2c125223d064c80d9800ff3a0c63c57d00a7ae7766a338a7e37a5ced6d334'}
   - {seq: 3, role: markers, filename: assets/KR6l0036_003-T.markers.yaml, hash: 'sha256:ca88ad410efc170ba9644af5095e7f2b714ac34de4d3430c3e8783af10dc983d'}
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6l0036_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 阿毘達磨俱舍論略釋記
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6l0036_T_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: '1'
@@ -443,4 +443,4 @@ table_of_contents:
   label: 俱舍論頌疏論本卷第三十
   type: juan
   level: 1
-hash: sha256:8da8bbbc8def5b396bd46b2299aafd4ca725b8948f5bf4ac63847299089c4906
+hash: sha256:3e42e4d7156989602d4faa3ffa288886af43aac74d00a5dfeb93e3ef14d2d3e1
